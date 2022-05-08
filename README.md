@@ -7,7 +7,7 @@
 - Chakra UI
 - TypeScript
 - Prettier
-- Eslint
+- ESLint
 
 ## Deploy your own
 
